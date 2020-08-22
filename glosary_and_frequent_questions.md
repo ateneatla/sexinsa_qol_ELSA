@@ -18,6 +18,7 @@ Eigenvalues represent variance explained each factor from the total variance. It
 
 Commonalities are the sum of the squared loadings for each variable. It represents the common variance. It ranges from 0-1
 and value close to 1 represents more variance.
+https://res.cloudinary.com/dchysltjf/image/upload/f_auto,q_auto:best/v1554830233/2.png
 
 **What is Factor Rotation?**
 
